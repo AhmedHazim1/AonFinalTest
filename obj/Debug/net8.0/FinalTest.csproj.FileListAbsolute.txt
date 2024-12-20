@@ -30,3 +30,4 @@ C:\Users\3D\Desktop\FinalTest\obj\Debug\net8.0\refint\FinalTest.dll
 C:\Users\3D\Desktop\FinalTest\obj\Debug\net8.0\FinalTest.pdb
 C:\Users\3D\Desktop\FinalTest\obj\Debug\net8.0\FinalTest.genruntimeconfig.cache
 C:\Users\3D\Desktop\FinalTest\obj\Debug\net8.0\ref\FinalTest.dll
+C:\Users\3D\Desktop\FinalTest\obj\Debug\net8.0\FinalTest.sourcelink.json

@@ -7,7 +7,7 @@ namespace FinalTest.Controllers
     [Route("/products")]
     public class ProductController : Controller
     {
-        private readonly List<Product> Products = new List<Product>();
+        private static readonly List<Product> Products = new List<Product>();
 
         [HttpGet("/{id}")]
         public IActionResult GetProductById(int id)
